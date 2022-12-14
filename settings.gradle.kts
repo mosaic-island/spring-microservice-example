@@ -14,4 +14,4 @@ pluginManagement {
 }
 
 rootProject.name = "spring-microservice-example"
-include("api-gateway", "github-service", "common")
+include("discovery-service", "admin-server", "api-gateway", "github-service", "common")
